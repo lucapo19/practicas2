@@ -1,0 +1,4 @@
+c)los 3 sistemas de control son: el centralizado , el local y el distribuido.
+d)cuando creamos un archivo esta en el working directory
+e)cuando hacemos un commit, el archivo esta en estado commited, osea en el repositorio.
+f)cuando hacemos un add el archivo pasa al staged area.
